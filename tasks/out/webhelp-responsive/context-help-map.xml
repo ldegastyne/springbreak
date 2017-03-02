@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_eqx_tpn_cz" path="../concepts/c-intro.html"/>
+   <appContext helpID="t-funevents" path="t-funevents.html"/>
+   <appContext helpID="t-pay" path="t-pay.html"/>
+   <appContext helpID="t-living" path="t-living.html"/>
+   <appContext helpID="t-transportation" path="t-transportation.html"/>
+</map>
