@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sln_xsn_cz">
+    <title>How to pay for spring break in PCB</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Going to Florida for a week isn't super cheap. You will need to contact Cru for how much to pay for each part of the trip.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pay the hotel for your room.</cmd>
+            </step>
+            <step>
+                <cmd>Pay the mini golf place for two games.</cmd>
+            </step>
+            <step>
+                <cmd>Pay the moped company to rent them.</cmd>
+            </step>
+            <step>
+                <cmd>Pay the charter bus company to fill up on gas.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
