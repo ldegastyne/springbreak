@@ -10,6 +10,15 @@
         <steps>
             <step>
                 <cmd>Go to the mini golf course on Monday</cmd>
+                <info>
+                    <fig id="fig_jrd_ttn_cz">
+                        <title>Mini golf at PCB!!</title>
+                        <image placement="break" href="minigolf.jpeg" width="2in" height="2in"
+                            align="center" id="image_krd_ttn_cz">
+                            <alt>Panama City Beach Mini Golf</alt>
+                        </image>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Rent mopeds for the day on Tuesday</cmd>
