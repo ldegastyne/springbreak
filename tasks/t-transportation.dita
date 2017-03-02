@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_jkz_1rn_cz">
-    <title>How to get to Blacksburg</title>
-    <shortdesc/>
+    <title>How to get to Panama City Beach</title>
+    <shortdesc>We are going with a big group of people in the Cru club at Virginia Tech so we will be taking a charter bus down to Florida. </shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Cru will do the job of contacting the charter bus company.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Let Cru know you are coming on the trip</cmd>
+            </step>
+            <step>
+                <cmd>Put down your deposit for the bus fare</cmd>
+            </step>
+            <step>
+                <cmd>Be in the Cassell lot at 6 a.m. on Monday, March 6 with all of your bags packed for the trip.</cmd>
             </step>
         </steps>
     </taskbody>
