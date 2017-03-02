@@ -11,7 +11,7 @@
             <step>
                 <cmd>Call the Edgewater Resort to make a reservation.</cmd>
                 <info>
-                    <fig id="fig_blh_35n_cz">
+                    <fig id="edgewaterresort">
                         <title>Edgewater Resort</title>
                         <image placement="break" href="edgewaterresort.jpeg" width="2in"
                             height="2in" align="center" id="image_clh_35n_cz">

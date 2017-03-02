@@ -11,7 +11,7 @@
             <step>
                 <cmd>Go to the mini golf course on Monday</cmd>
                 <info>
-                    <fig id="fig_jrd_ttn_cz">
+                    <fig id="minigolf">
                         <title>Mini golf at PCB!!</title>
                         <image placement="break" href="minigolf.jpeg" width="2in" height="2in"
                             align="center" id="image_krd_ttn_cz">
