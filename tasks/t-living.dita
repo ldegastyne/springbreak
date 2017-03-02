@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_azv_qsn_cz">
+    <title>How to get living arrangements in PCB</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>We will need a place to stay for four nights in PCB.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Call the Edgewater Resort to make a reservation.</cmd>
+            </step>
+            <step>
+                <cmd>Give them your credit card information to hold your slot.</cmd>
+            </step>
+            <step>
+                <cmd>Check into the hotel when you get to PCB and drop your stuff off in your room.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
